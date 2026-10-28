@@ -33,12 +33,23 @@ it for you:
 2. In Obtainium, tap **Add App** and paste `https://github.com/leogrill-design/VocabApp-alpha`.
 3. Turn on **Include prereleases** (every alpha is one), then tap **Add**.
 
+## Privacy
+
+- **The app collects nothing about you.** No accounts, no tracking, no analytics, no ads. It
+  never asks for your name or email.
+- **Everything stays on your phone:** your words, your statistics and your feedback. Nothing
+  leaves it unless you export a backup and send or upload it yourself.
+- **It never connects to the internet.** The dictionary is built in, and once installed the
+  app works in airplane mode.
+- Anything you type yourself, such as a note, a book title or a feedback report, goes into your
+  backup as you wrote it.
+
 ## Feedback
 
 In the app, open ☰ → **Feedback** or **Feature request**. Nothing is sent anywhere: what you write
-is kept in the app. To send it, make a backup (☰ → **Backup** → **Export backup**) and send the file
-to whoever gave you this link. Your backup also holds your saved words and review history, which
-helps show how the app is used.
+is kept in the app. To send it, open ☰ → **About this alpha** → **Send to the developer**: your
+email app opens with your backup attached, ready to send. Your backup also holds your saved words
+and review history, which helps show how the app is used.
 
 ## Licence
 
