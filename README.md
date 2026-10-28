@@ -24,15 +24,6 @@ and install it over the old one, the same way. **Your words are kept.**
 **Never uninstall the app to update it.** Uninstalling deletes everything you have saved. If you ever
 have to, make a backup first: ☰ → **Backup** → **Export backup**.
 
-### Automatic update notices (optional)
-
-[Obtainium](https://github.com/ImranR98/Obtainium) can tell you when a new version is out and install
-it for you:
-
-1. Install Obtainium from its [releases page](https://github.com/ImranR98/Obtainium/releases).
-2. In Obtainium, tap **Add App** and paste `https://github.com/leogrill-design/VocabApp-alpha`.
-3. Turn on **Include prereleases** (every alpha is one), then tap **Add**.
-
 ## Privacy
 
 - **The app collects nothing about you.** No accounts, no tracking, no analytics, no ads. It
